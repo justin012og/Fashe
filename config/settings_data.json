@@ -181,9 +181,23 @@
       "1480267833382": {
         "type": "slideshow",
         "blocks": {
+          "image_mWWrJD": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/da0e1a3a-1c71-49df-98c7-85dbcd3d6f4e_09dba01f-2dd1-4c7b-91a8-8abb22933e28.jpg",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
           "1480267833382-1": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/Sacf18fd02b9b493ab3fcc8c02e3942b2z.webp",
               "heading": "Women Collection 2018",
               "heading_appear": "fadeInDown",
               "subheading": "New arrivals",
@@ -196,6 +210,7 @@
           "1480267833382-0": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/Sa7d317ac7bed4ab98f9cad1de51903d6x.webp",
               "heading": "Women Collection 2018",
               "heading_appear": "rollIn",
               "subheading": "New arrivals",
@@ -219,6 +234,7 @@
           }
         },
         "block_order": [
+          "image_mWWrJD",
           "1480267833382-1",
           "1480267833382-0",
           "1507555687103"
